@@ -1,0 +1,8 @@
+
+@import "tailwindcss";
+
+@theme {
+    --font-*: initial;
+    --font-sans: "Poppins", sans-serif;
+  /* --font-display: "Roboto", "sans-serif";  */
+}

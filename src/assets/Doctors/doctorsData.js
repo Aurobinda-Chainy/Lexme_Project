@@ -1,0 +1,91 @@
+const doctor = [
+  {
+    id: 1,
+    name: "Dr. Aurobinda Chainy",
+    designation: "EXECUTIVE CHAIRMAN FORTIS C DOC",
+    hospital: "Lexme Hopital",
+    specialties: ["Diabetology/Endocrinology", "Endocrinology"],
+    experience: 15,
+    fee: 2800,
+    image: "/images/DoctorImg/Doc1.png",
+  },
+
+  {
+    id: 2,
+    name: "Dr. Ajay Sahoo",
+    designation: "CHAIRMAN CARDIAC SCIENCE",
+    hospital: "Fortis Noida",
+    specialties: [
+      "Cardiac Sciences",
+      "Adult CTVS",
+      "Heart Transplant",
+      "Vascular Surgery",
+    ],
+    experience: 38,
+    fee: 1600,
+    image: "/images/DoctorImg/Doc1.png",
+  },
+  {
+    id: 3,
+    name: "Dr. Samay Rout",
+    designation: "CHAIRMAN CARDIAC SCIENCE",
+    hospital: "Lexme Cuttack",
+    specialties: [
+      "Cardiac Sciences",
+      "Adult CTVS",
+      "Heart Transplant",
+      "Vascular Surgery",
+    ],
+    experience: 38,
+    fee: 1600,
+    image: "/images/DoctorImg/Doc1.png",
+  },
+  {
+    id: 4,
+    name: "Dr. Rajat Kumar",
+    designation: "CHAIRMAN CARDIAC SCIENCE",
+    hospital: "Lexme Bhubhaneswar",
+    specialties: [
+      "Cardiac Sciences",
+      "Adult CTVS",
+      "Heart Transplant",
+      "Vascular Surgery",
+    ],
+    experience: 38,
+    fee: 1600,
+    image: "/images/DoctorImg/Doc1.png",
+  },
+
+  {
+    id: 5,
+    name: "Dr. Rahul Sharma",
+    designation: "CHAIRMAN CARDIAC SCIENCE",
+    hospital: "Lexme Kolkata",
+    specialties: [
+      "Cardiac Sciences",
+      "Adult CTVS",
+      "Heart Transplant",
+      "Vascular Surgery",
+    ],
+    experience: 38,
+    fee: 1600,
+    image: "/images/DoctorImg/Doc1.png",
+  },
+  {
+    id: 6,
+    name: "Dr. Ajay Kaul",
+    designation: "CHAIRMAN CARDIAC SCIENCE",
+    hospital: "Lexme Noida",
+    specialties: [
+      "Cardiac Sciences",
+      "Adult CTVS",
+      "Heart Transplant",
+      "Vascular Surgery",
+    ],
+    experience: 38,
+    fee: 1600,
+    image: "/images/DoctorImg/Doc1.png",
+  },
+];
+
+export default doctor;
