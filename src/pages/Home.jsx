@@ -36,7 +36,7 @@ const Home = () => {
         <p className="text-lg text-gray-600 mt-4">
           Your Health, Our Priority — Advanced Care, Trusted Doctors.
         </p>
-        <div className="mt-6 space-x-4">
+        <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center">
           <a
             href="/doctors"
             className="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700"
