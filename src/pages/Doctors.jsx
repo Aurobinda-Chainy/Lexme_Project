@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import doctorsData from "../assets/Doctors/doctorsData";
-import DoctorCard from "../components/Doctorcard";
+import DoctorCard from "../components/DoctorCard";
 import Footer from "../components/Footer";
 import DoctorFilterBar from "../components/DoctorsFilterBar";
 
